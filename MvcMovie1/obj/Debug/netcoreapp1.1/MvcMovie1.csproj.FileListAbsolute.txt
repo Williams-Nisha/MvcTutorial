@@ -1,0 +1,9 @@
+E:\college\CIT301C\CIT301\MvcMovie1\MvcMovie1\bin\Debug\netcoreapp1.1\MvcMovie1.deps.json
+E:\college\CIT301C\CIT301\MvcMovie1\MvcMovie1\bin\Debug\netcoreapp1.1\MvcMovie1.runtimeconfig.json
+E:\college\CIT301C\CIT301\MvcMovie1\MvcMovie1\bin\Debug\netcoreapp1.1\MvcMovie1.runtimeconfig.dev.json
+E:\college\CIT301C\CIT301\MvcMovie1\MvcMovie1\bin\Debug\netcoreapp1.1\MvcMovie1.dll
+E:\college\CIT301C\CIT301\MvcMovie1\MvcMovie1\bin\Debug\netcoreapp1.1\MvcMovie1.pdb
+E:\college\CIT301C\CIT301\MvcMovie1\MvcMovie1\obj\Debug\netcoreapp1.1\MvcMovie1.csprojResolveAssemblyReference.cache
+E:\college\CIT301C\CIT301\MvcMovie1\MvcMovie1\obj\Debug\netcoreapp1.1\MvcMovie1.AssemblyInfo.cs
+E:\college\CIT301C\CIT301\MvcMovie1\MvcMovie1\obj\Debug\netcoreapp1.1\MvcMovie1.dll
+E:\college\CIT301C\CIT301\MvcMovie1\MvcMovie1\obj\Debug\netcoreapp1.1\MvcMovie1.pdb
